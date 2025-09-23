@@ -12,7 +12,7 @@ with open("testfile.txt", "r") as file:
 
 # Create the email message
 msg = MIMEText(email_content)
-msg["Subject"] = "Python Homework: Demo Text"
+msg["Subject"] = "Python Homework: Task Schedule Mail using windows Task Scheduler"
 msg["From"] = sender_email
 msg["To"] = receiver_email
 # Use SMTP_SSL for a secure connection on port 465
