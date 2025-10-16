@@ -1,0 +1,49 @@
+
+HKEY_LOCAL_MACHINE\Software
+    (Default)    REG_SZ    
+
+HKEY_LOCAL_MACHINE\Software\Adobe
+HKEY_LOCAL_MACHINE\Software\AMD
+HKEY_LOCAL_MACHINE\Software\ATI
+HKEY_LOCAL_MACHINE\Software\ATI Technologies
+HKEY_LOCAL_MACHINE\Software\BraveSoftware
+HKEY_LOCAL_MACHINE\Software\Bytedance
+HKEY_LOCAL_MACHINE\Software\CANON
+HKEY_LOCAL_MACHINE\Software\Classes
+HKEY_LOCAL_MACHINE\Software\Clients
+HKEY_LOCAL_MACHINE\Software\CVSM
+HKEY_LOCAL_MACHINE\Software\DefaultUserEnvironment
+HKEY_LOCAL_MACHINE\Software\ESET
+HKEY_LOCAL_MACHINE\Software\GitForWindows
+HKEY_LOCAL_MACHINE\Software\Google
+HKEY_LOCAL_MACHINE\Software\Hewlett-Packard
+HKEY_LOCAL_MACHINE\Software\HP
+HKEY_LOCAL_MACHINE\Software\IM Providers
+HKEY_LOCAL_MACHINE\Software\Intel
+HKEY_LOCAL_MACHINE\Software\Internet Download Manager
+HKEY_LOCAL_MACHINE\Software\Khronos
+HKEY_LOCAL_MACHINE\Software\Logishrd
+HKEY_LOCAL_MACHINE\Software\Marvell
+HKEY_LOCAL_MACHINE\Software\MAXSOFT-OCRON
+HKEY_LOCAL_MACHINE\Software\Microsoft
+HKEY_LOCAL_MACHINE\Software\Mozilla
+HKEY_LOCAL_MACHINE\Software\MozillaPlugins
+HKEY_LOCAL_MACHINE\Software\Node.js
+HKEY_LOCAL_MACHINE\Software\ODBC
+HKEY_LOCAL_MACHINE\Software\OEM
+HKEY_LOCAL_MACHINE\Software\OpenSSH
+HKEY_LOCAL_MACHINE\Software\Partner
+HKEY_LOCAL_MACHINE\Software\Policies
+HKEY_LOCAL_MACHINE\Software\PostgreSQL
+HKEY_LOCAL_MACHINE\Software\PostgreSQL Global Development Group
+HKEY_LOCAL_MACHINE\Software\Python
+HKEY_LOCAL_MACHINE\Software\RealVNC
+HKEY_LOCAL_MACHINE\Software\RegisteredApplications
+HKEY_LOCAL_MACHINE\Software\SimonTatham
+HKEY_LOCAL_MACHINE\Software\Synaptics
+HKEY_LOCAL_MACHINE\Software\SyncIntegrationClients
+HKEY_LOCAL_MACHINE\Software\Tenable
+HKEY_LOCAL_MACHINE\Software\VMware, Inc.
+HKEY_LOCAL_MACHINE\Software\Windows
+HKEY_LOCAL_MACHINE\Software\WOW6432Node
+HKEY_LOCAL_MACHINE\Software\xampp
